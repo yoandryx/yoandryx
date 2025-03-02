@@ -1,15 +1,47 @@
-🚀 Full-Stack Developer | Web3 & 3D Web Enthusiast
--I'm a full-stack developer with a diverse background in electronics, aerospace, and software development. With experience in electrical systems for mobility and aviation, I transitioned into tech to build innovative, scalable applications that integrate modern web technologies with Web3, blockchain, and 3D web experiences.
+<h1 align="left">Hello World!</h1>
 
-🔹 My Background
--✔ Electronics & Aerospace – Worked at In Motion Mobility, specializing in electronics, and at AAR Landing Gear Services as an electrical technician for aircraft landing gears.
--✔ Software Development – Designed multiple websites and web apps, applying expertise in React, Next.js, Node.js, Express, Django, and SQL.
--✔ Web3 & Blockchain – Passionate about decentralized applications and the future of finance, leveraging Solana, smart contracts, and blockchain security.
--✔ 3D Web Integration – Specializing in WebGL, Three.js, and interactive UI experiences, pushing the limits of digital interaction.
+###
 
--🌍 Where I'm Headed
--I'm driven by the intersection of finance, technology, and 3D web experiences. My goal is to build immersive, decentralized applications that redefine the way users interact with digital platforms. Whether it's scalable enterprise solutions, blockchain-driven marketplaces, or 3D-enhanced applications, I aim to stay at the forefront of technological evolution.
-<!---
-yoandryx/yoandryx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">My name is Yoandry and I'm an aspiring Full Stack Developer, from Miami.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🚀  Full-Stack Developer | Web3 & 3D Web Enthusiast – With a background in electronics, aerospace, and software development, I transitioned into tech to build scalable applications that integrate modern web technologies, 3D experiences, and explore Web3 and blockchain innovation.<br><br>📚 I'm currently learning Rust, Solidity, and AI-driven web integrations.<br><br>🌍 Where I'm Headed : Driven by finance, tech, and 3D web, I build scalable applications that blend modern web development with interactive 3D experiences. Exploring blockchain to push the future of digital innovation.<br><br>🎲 Fun fact: I have plenty of innovated ideas to bring to life in the upcoming future, contact me to know more about them!</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+</div>
+
+###
